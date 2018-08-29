@@ -47,4 +47,4 @@ Below you can see that this approach reaches 13 points after ~500 episodes, and 
 
 ### Possible Improvements
 
-There have been many advances in DQNs that could be integrated into this including priortized experience replay to select better samples, double dqn to better estimate q-values, or a combination of those and other with a RAINBOW like architecture. 
+There have been many advances in DQNs that could be integrated into this including priortized experience replay to select better samples, dueling dqn to better estimate q-values, or a combination of those and other with a RAINBOW like architecture. 
